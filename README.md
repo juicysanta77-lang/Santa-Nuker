@@ -14,12 +14,7 @@ A fast and powerful Discord server management tool.
   <img src="https://img.shields.io/github/stars/juicysanta77-lang/Santa-Nuker?style=flat-square&color=red" alt="Stars">
 </a>
 <a href="https://github.com/juicysanta77-lang/Santa-Nuker">
-  <img src="https://img.shields.io/aithub/forks/juicysanta77-lang/Santa-Nuker?style=flat-square&color=red" alt="Forks">
-</a>
-<a href="https://github.com/juicysanta77-lang/Santa-Nuker">
-  <img src="https://img.shields.io/github/license/juicysanta77-lang/Santa-Nuker?style=flat-square&color=red" alt="License">
-</a>
-
+  <img 
 <br><br>
 
 [Download](https://github.com/juicysanta77-lang/Santa-Nuker)
@@ -32,7 +27,7 @@ A fast and powerful Discord server management tool.
 
 ## About
 
-Santa Nuker is a Discord server management tool built for automated server actions.
+Santa Nuker is a Discord server Nuker actions built for automated server actions.
 
 The project is designed with a simple configuration system and a lightweight setup.
 
@@ -43,7 +38,6 @@ The project is designed with a simple configuration system and a lightweight set
 - Simple configuration
 - Lightweight setup
 - Windows executable included
-- Easy to customize
 
 ## Requirements
 
